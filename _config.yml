@@ -33,7 +33,7 @@ carpentry: "bioc"
 # dc-geospatial: for Data Carpentry Geospatial
 # swc-inflammation: for Software Carpentry based on the inflammation dataset
 # swc-gapminder: for Software Carpentry based on the Gapminder dataset
-curriculum: "FIXME"
+curriculum: "bioc-rnaseq"
 
 # If there is both an R and python official version of a curriculum
 # (as listed on https://software-carpentry.org/lessons/ and
@@ -45,7 +45,7 @@ flavor: "FIXME"
 
 # If the workshop will be a lesson pilot (for a new official lesson or
 # a lesson in The Carpentries Incubator), set pilot to "true"
-pilot: false
+pilot: true
 
 # Overall title for the Workshop.
 # This variable is used to (optionally) add a title in the "jumbotron"
@@ -53,7 +53,7 @@ pilot: false
 # Most workshops don't use extra pages. More information about extra
 # pages are included in the README:
 # https://github.com/carpentries/workshop-template#creating-extra-pages
-title: "Workshop Title"
+title: "RNA-seq analysis with Bioconductor"
 
 #------------------------------------------------------------
 # Incubator workshop settings (only relevant for workshops teaching a lesson
@@ -110,8 +110,12 @@ workshop_site: "https://carpentries.github.io/workshop-template"
 cc_by_human: "https://creativecommons.org/licenses/by/4.0/"
 
 # Surveys.
-pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
-post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug="
+
+# carpentries
+# pre_survey: "https://carpentries.typeform.com/to/wi32rS?slug="
+# post_survey: "https://carpentries.typeform.com/to/UgVdRQ?slug="
+pre_survey: ""
+post_survey: ""
 
 # Start time in minutes (0 to be clock-independent, 540 to show a start at 09:00 am).
 start_time: 0
