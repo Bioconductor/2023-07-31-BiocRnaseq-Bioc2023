@@ -246,6 +246,13 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p class="text-left">	
+  <a href="https://docs.google.com/document/d/13lx5SDTDk4AYcrS92jSEdgoEDJw8bKvTGcjz5Jzzbg4/edit">
+    <button type="button" class="btn btn-info">Apply</button>
+  </a>
+</p>
+<hr/>
+
 {% comment %}
 WHO CAN ATTEND?
 
