@@ -246,9 +246,14 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
-<p class="text-left">	
+<p id="application">
+  <strong>Application:</strong>
+  You can apply to attend workshop by filling out the form in the "Apply"" button below before the deadline of <strong>May 31 2023</strong>. Successful applicants will be notified shortly after the deadline. 
+</p>
+
+<p class="text-center">	
   <a href="https://docs.google.com/document/d/13lx5SDTDk4AYcrS92jSEdgoEDJw8bKvTGcjz5Jzzbg4/edit">
-    <button type="button" class="btn btn-info">Apply</button>
+    <button type="button" class="btn btn-success">Apply for a place</button>
   </a>
 </p>
 <hr/>
