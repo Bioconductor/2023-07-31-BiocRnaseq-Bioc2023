@@ -246,9 +246,14 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p id="cost">
+  <strong>Cost:</strong>
+  TBD
+</p>
+
 <p id="application">
   <strong>Application:</strong>
-  You can apply to attend workshop by filling out the form in the "Apply"" button below before the deadline of <strong>May 31 2023</strong>. Successful applicants will be notified shortly after the deadline. 
+  You can apply to attend workshop by filling out the form in the "Apply for a place" button below before the deadline of <strong>May 31 2023</strong>. Applications will be reviewed by the organisers and all applicants will be informed of the status of their application (successful, waiting list, unsuccessful) shortly after the deadline.  
 </p>
 
 <p class="text-center">	
@@ -339,8 +344,12 @@ in `_config.yml` or, if this workshop is teaching a lesson in the Incubator,
 change the value of `carpentry` to `incubator`.
 </div>
 {% else %}
+{% comment %}
 <p><a href="{{ site.pre_survey }}{{ site.github.project_title }}">Pre-workshop Survey</a></p>
 <p><a href="{{ site.post_survey }}{{ site.github.project_title }}">Post-workshop Survey</a></p>
+{% endcomment %}
+<p>Pre-workshop Survey</p>
+<p>Post-workshop Survey</p>
 {% endif %}
 
 <hr/>
