@@ -248,7 +248,7 @@ Display the contact email address set in the configuration file.
 
 <p id="cost">
   <strong>Cost:</strong>
-  TBD
+  $75 USD
 </p>
 
 <p id="application">
@@ -257,7 +257,7 @@ Display the contact email address set in the configuration file.
 </p>
 
 <p class="text-center">	
-  <a href="https://docs.google.com/document/d/13lx5SDTDk4AYcrS92jSEdgoEDJw8bKvTGcjz5Jzzbg4/edit">
+  <a href="https://app.smartsheet.com/b/form/3482d8ac5665404f83cf098e6714f87f">
     <button type="button" class="btn btn-success">Apply for a place</button>
   </a>
 </p>
