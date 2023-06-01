@@ -253,7 +253,7 @@ Display the contact email address set in the configuration file.
 
 <p id="application">
   <strong>Application:</strong>
-  You can apply to attend workshop by filling out the form in the "Apply for a place" button below before the deadline of <strong>May 31 2023</strong>. Applications will be reviewed by the organisers and all applicants will be informed of the status of their application (successful, waiting list, unsuccessful) shortly after the deadline.  
+  You can apply to attend workshop by filling out the form in the "Apply for a place" button below. Applications will be reviewed by the organisers until places are filled, and all applicants will be informed of the status of their application (successful, waiting list, unsuccessful).  
 </p>
 
 <p class="text-center">	
